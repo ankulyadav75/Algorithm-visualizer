@@ -44,7 +44,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## 🤓 Author(s)
 
-**Upendra Singh Chauhan** [![Twitter Follow](https://img.shields.io/twitter/follow/Upendra_2001.svg?style=social)](https://twitter.com/Upendra_2001)
+*
 
 ## Show your support
 Give a ⭐️ if you like this project 
